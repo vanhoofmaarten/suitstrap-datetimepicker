@@ -3,7 +3,7 @@
         "name": "Jonathan Peterson"
     },
     "bugs": {
-        "url": "https://github.com/eonasdan/bootstrap-datetimepicker/issues"
+        "url": "https://github.com/vanhoofmaarten/suitstrap-datetimepicker/issues"
     },
     "dependencies": {
         "moment": "~2.8",
@@ -23,21 +23,22 @@
         "load-grunt-tasks": "latest",
         "grunt-nuget": "^0.1.4"
     },
-    "homepage": "http://eonasdan.github.io/bootstrap-datetimepicker/",
+    "homepage": "http://vanhoofmaarten.github.io/suitstrap-datetimepicker/",
     "keywords": [
         "twitter-bootstrap",
         "bootstrap",
         "datepicker",
         "datetimepicker",
         "timepicker",
-        "moment"
+        "moment",
+        "suitstrap"
     ],
     "license": "MIT",
-    "main": "src/js/bootstrap-datetimepicker.js",
-    "name": "eonasdan-bootstrap-datetimepicker",
+    "main": "src/js/suitstrap-datetimepicker.js",
+    "name": "eonasdan-suitstrap-datetimepicker",
     "repository": {
         "type": "git",
-        "url": "https://github.com/eonasdan/bootstrap-datetimepicker.git"
+        "url": "https://github.com/suitstrap/bootstrap-datetimepicker.git"
     },
     "version": "4.17.37"
 }
